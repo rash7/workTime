@@ -1,0 +1,1 @@
+Для подтверждения регистрации, пройдите по  <a href="http://rashid96.myjino.ru/register/confirm/{{ $token }}"> ссылке</a>
